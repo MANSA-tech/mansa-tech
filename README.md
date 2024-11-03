@@ -1,6 +1,7 @@
 ## Hi there 👋
 helooo 
 goood morningggggg
+areee yrrrr
 <!--
 **MANSA-tech/mansa-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
